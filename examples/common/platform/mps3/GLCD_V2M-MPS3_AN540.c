@@ -37,7 +37,7 @@
 //#include "RTE_Components.h"             /* Component selection */
 //#include CMSIS_device_header
 
-#include "MPS3_CM55.h"
+#include "MPS3_CLCD.h"
 #include "GLCD_Config.h"
 #include "Board_GLCD.h"
 #include "../controls/__common.h"

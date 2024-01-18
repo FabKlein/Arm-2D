@@ -242,8 +242,12 @@ int main (void)
 #endif
 
     while (1) {
+#if LOCKED_FRAMERATE
         /* lock framerate */
         disp_adapter0_task(LCD_TARGET_FPS);
+#else
+        disp_adapter0_task();
+#endif
     }
 }
 
