@@ -3063,7 +3063,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</PathWithFileName>
+      <PathWithFileName>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</PathWithFileName>
       <FilenameWithoutPath>arm_2d_rgb565_aci_lib.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -3075,7 +3075,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</PathWithFileName>
+      <PathWithFileName>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</PathWithFileName>
       <FilenameWithoutPath>arm_2d_rgb565_aci_lib.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -3087,7 +3087,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\..\CDE\arm_2d_user_aci.h</PathWithFileName>
+      <PathWithFileName>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</PathWithFileName>
       <FilenameWithoutPath>arm_2d_user_aci.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>

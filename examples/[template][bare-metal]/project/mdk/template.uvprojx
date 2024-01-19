@@ -453,17 +453,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -1355,17 +1355,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -2256,17 +2256,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -3158,17 +3158,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -3991,17 +3991,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -4893,17 +4893,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -5795,17 +5795,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -6697,17 +6697,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -7530,17 +7530,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -8432,17 +8432,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -9265,17 +9265,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -10037,7 +10037,7 @@
             <PlainCh>0</PlainCh>
             <Ropi>0</Ropi>
             <Rwpi>0</Rwpi>
-            <wLevel>2</wLevel>
+            <wLevel>3</wLevel>
             <uThumb>0</uThumb>
             <uSurpInc>0</uSurpInc>
             <uC99>0</uC99>
@@ -10054,7 +10054,7 @@
               <MiscControls>-Wno-padded -mcpu=cortex-m55+cdecp0</MiscControls>
               <Define>LCD_MIRROR_X=1,GLCD_MIRROR_Y=0,__USE_AN547__</Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\..\common\platform;..\..\;..\..\..\common\platform\mps3\v2m_mps3;..\..\..\common\platform\mps3;..\..\..\..\CDE</IncludePath>
+              <IncludePath>..\..\..\common\platform;..\..\;..\..\..\common\platform\mps3\v2m_mps3;..\..\..\common\platform\mps3;..\..\..\..\Acceleration\Arm\ACI</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -10167,17 +10167,17 @@
             <File>
               <FileName>arm_2d_rgb565_aci_lib.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.c</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.c</FilePath>
             </File>
             <File>
               <FileName>arm_2d_rgb565_aci_lib.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_rgb565_aci_lib.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_rgb565_aci_lib.h</FilePath>
             </File>
             <File>
               <FileName>arm_2d_user_aci.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\..\CDE\arm_2d_user_aci.h</FilePath>
+              <FilePath>..\..\..\..\Acceleration\Arm\ACI\arm_2d_user_aci.h</FilePath>
             </File>
           </Files>
         </Group>
