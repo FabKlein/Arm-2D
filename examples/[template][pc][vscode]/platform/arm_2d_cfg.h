@@ -21,7 +21,9 @@
 
 /*============================ INCLUDES ======================================*/
 
-#include "RTE_Components.h"
+#if defined(_RTE_)
+#   include "RTE_Components.h"
+#endif
 
 #ifdef   __cplusplus
 extern "C" {
@@ -82,6 +84,7 @@ extern "C" {
 /* The filter of log channels. Please comment the channels that you want to mask.
  */
 #ifndef __ARM_2D_LOG_CHANNEL_MASK_FILTER__
+
 #   define __ARM_2D_LOG_CHANNEL_MASK_FILTER__                                   \
             (   ARM_2D_LOG_CHN_TYPE_USER                                        \
             |   ARM_2D_LOG_CHN_TYPE_INFO                                        \
@@ -93,7 +96,9 @@ extern "C" {
             |   ARM_2D_LOG_CHN_HELPER_PFB                                       \
             |   ARM_2D_LOG_CHN_SCENE_PLAYER                                     \
             |   ARM_2D_LOG_CHN_DIRTY_REGION_OPTIMISATION                        \
+            |   ARM_2D_LOG_CHN_STATISTICS                                       \
             |   ARM_2D_LOG_CHN_APP)
+
 #endif
 // </h>
 

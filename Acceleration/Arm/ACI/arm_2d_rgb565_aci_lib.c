@@ -35,20 +35,11 @@
 #include "arm_2d_rgb565_aci_lib.h"
 
 
-void __arm_2d_aci_init(void)
+static void __arm_2d_cde_rgb565_init(void)
 {
-    uint32_t        coproPrivMask = 0;
-    /* Enable Full access privileges for coprocessor IDs deduced from compiler exported bitmap mask __ARM_FEATURE_CDE_COPROC */
-    /* This library requires +cdecp0 compilation, enabling bit 0 */
-
 #define COPRO_FULL_ACCESS 0x3U
 
-    for (uint32_t i = 0; i < 7; i++) {
-        if (__ARM_FEATURE_CDE_COPROC & (1 << i))
-            coproPrivMask |= (COPRO_FULL_ACCESS << (i * 2));
-    }
-
-    SCB->CPACR |= coproPrivMask;
+    SCB->CPACR |= COPRO_FULL_ACCESS << (ARM_2D_RGB565_ACI_LIB_COPRO_ID * 2);
     __ISB();
 }
 
@@ -93,3 +84,9 @@ void __arm_2d_impl_rgb565_colour_filling_with_opacity(uint16_t *
     }
 }
 #endif
+
+void __arm_2d_aci_init(void)
+{
+    if (__ARM_FEATURE_CDE_COPROC & (1 << ARM_2D_RGB565_ACI_LIB_COPRO_ID))
+        __arm_2d_cde_rgb565_init();
+}

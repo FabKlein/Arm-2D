@@ -52,7 +52,7 @@
 
 #if (__ARM_FEATURE_CDE_COPROC & (0x1 << ARM_2D_RGB565_ACI_LIB_COPRO_ID) ) == 0
 #error "__ARM_FEATURE_CDE_COPROC does not have correct feature bits set"
-#endif                          /* */
+#endif
 #define __ARM_2D_IMPL__
 #include "__arm_2d_impl.h"
 #include <RTE_Components.h>
@@ -64,17 +64,23 @@
 /* Vector RGB565 Mix */
 #define VRGB565MIX_ACI(In1Out, In2, Ratio)                           \
     __arm_vcx3qa(0, In1Out, In2, Ratio, 1)
-__STATIC_FORCEINLINE
+
+__STATIC_FORCEINLINE
 uint16x8_t __arm_2d_cde_vrgb565_blend(uint16x8_t vec1, uint16x8_t vec2,        uint16x8_t vratio)
 {
     return __arm_vcx3qa(ARM_2D_RGB565_ACI_LIB_COPRO_ID, vec1, vec2, vratio, 1);
 }
-__STATIC_FORCEINLINE
+
+
+__STATIC_FORCEINLINE
 uint16x8_t __arm_2d_cde_vrgb565_blend_m(uint16x8_t vec1, uint16x8_t vec2,
                                                                uint16x8_t vratio,
-                                                               mve_pred16_t p){    return __arm_vcx3qa_m(ARM_2D_RGB565_ACI_LIB_COPRO_ID, vec1, vec2, vratio, 1, p);
+                                                               mve_pred16_t p)
+{
+    return __arm_vcx3qa_m(ARM_2D_RGB565_ACI_LIB_COPRO_ID, vec1, vec2, vratio, 1, p);
 }
 
+void __arm_2d_aci_init(void);
 
 #endif                          /* __ARM_FEATURE_CDE  */
 #endif                          /* __ARM_2D_RGB565_ACI_LIB_H__ */

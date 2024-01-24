@@ -76,7 +76,7 @@ extern "C" {
 // <i> Specify the arm-2d application thread stack size
 // <i> Default: 2048
 #ifndef APP_STACK_SIZE
-#   define APP_STACK_SIZE       (3 * 1024ul)
+#   define APP_STACK_SIZE       (3072ul)
 #endif
 
 // <<< end of configuration section >>>
@@ -189,9 +189,13 @@ void app_2d_main_thread (void *argument)
         //! retrieve the number of system ticks
         uint32_t wTick = osKernelGetTickCount();        
         while(arm_fsm_rt_cpl != disp_adapter0_task());
-        
+
+    #if defined(RTE_Acceleration_Arm_2D_Extra_Benchmark)
+        ARM_2D_UNUSED(wTick);
+    #else
         //! lock frame rate
         osDelayUntil(wTick + (1000 / LCD_TARGET_FPS));
+    #endif
     }
 
     //osThreadExit();
