@@ -51,4 +51,6 @@ project:
       for-context:
         - +VHT-Corstone-300-NOLCD-CDE
         - +VHT-Corstone-310-NOLCD-CDE
+        - +VHT-Corstone-300-CDE
+        - +VHT-Corstone-310-CDE
 

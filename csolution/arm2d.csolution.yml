@@ -24,6 +24,14 @@ solution:
     - type: VHT-Corstone-310
       device: ARM::SSE-310-MPS3_FVP
 
+    - type: VHT-Corstone-310-CDE
+      device: ARM::SSE-310-MPS3_FVP
+      misc:
+        - C-CPP:
+          - -mcpu=cortex-m85+cdecp0
+      add-path:
+        - ../Acceleration/Arm/ACI/
+
     - type: VHT-Corstone-310-NOLCD
       device: ARM::SSE-310-MPS3_FVP
       define:
@@ -45,6 +53,14 @@ solution:
 
     - type: VHT-Corstone-300
       device: ARM::SSE-300-MPS3
+
+    - type: VHT-Corstone-300-CDE
+      device: ARM::SSE-300-MPS3
+      misc:
+        - C-CPP:
+          - -mcpu=cortex-m55+cdecp0
+      add-path:
+        - ../Acceleration/Arm/ACI/
 
     - type: VHT-Corstone-300-NOLCD
       device: ARM::SSE-300-MPS3
